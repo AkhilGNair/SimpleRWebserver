@@ -13,6 +13,7 @@ while (TRUE) {
     open = 'r+'
   )
 
+
   # Define an input method
   f = file("stdin")
 
