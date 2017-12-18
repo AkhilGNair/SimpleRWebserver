@@ -1,5 +1,14 @@
 # Simple R Webserver
 
+Building a super simple webserver from scratch in R
+
+Based on
+
+ - https://ruslanspivak.com/lsbaws-part1/
+ - http://blog.corynissen.com/2013/05/using-r-to-communicate-via-socket.html
+
+___
+
 After having deployed a few websites with Nginx and understanding how to use it
 fairly well, I thought it might be useful to ask a question to my colleague
 Vergil which he found pretty funny.
